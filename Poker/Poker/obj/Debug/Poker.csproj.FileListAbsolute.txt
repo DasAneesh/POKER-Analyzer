@@ -1,0 +1,7 @@
+C:\Users\Academy\source\repos\Poker\Poker\bin\Debug\Poker.exe.config
+C:\Users\Academy\source\repos\Poker\Poker\bin\Debug\Poker.exe
+C:\Users\Academy\source\repos\Poker\Poker\bin\Debug\Poker.pdb
+C:\Users\Academy\source\repos\Poker\Poker\obj\Debug\Poker.csproj.AssemblyReference.cache
+C:\Users\Academy\source\repos\Poker\Poker\obj\Debug\Poker.csproj.CoreCompileInputs.cache
+C:\Users\Academy\source\repos\Poker\Poker\obj\Debug\Poker.exe
+C:\Users\Academy\source\repos\Poker\Poker\obj\Debug\Poker.pdb
